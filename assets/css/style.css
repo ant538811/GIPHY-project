@@ -1,12 +1,15 @@
+*
+{
+	font-weight: bold;
+	font-family: cursive;
+}
 .text-center 
 {
 	font-size: 50px;
-	font-family: cursive;
 }
 #add 
 {
 	font-size: 20px;
-	font-family: cursive;
 }
 body 
 {
@@ -14,7 +17,9 @@ body
 }
 .ratings
 {
-	font-weight: bold;
-	font-family: cursive;
 	font-size: 15px;
+}
+.instructions
+{
+	font-family: 15px;
 }
